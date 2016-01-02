@@ -1,7 +1,7 @@
 name: Three Hours
 favicon: null
-layout_spectrum: 0.34584678313694894
-typography_spectrum: 0.7810398086439818
+layout_spectrum: 1
+typography_spectrum: 0.66505
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.9741445297840983
-  lightness: 0.6113427623640746
-  saturation: 0.07044545887038112
-  rhythmicContrast: 0.22136449185200036
+  brandStrength: 1
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
