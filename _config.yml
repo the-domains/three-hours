@@ -1,6 +1,6 @@
 name: Three Hours
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75799
 typography_spectrum: 0.66505
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 1
-  lightness: 0.25
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+    - '#ffffff'
+    - '#040000'
+    - '#504d48'
+    - '#cb801b'
+    - '#fcc32a'
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
