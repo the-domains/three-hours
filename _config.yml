@@ -1,28 +1,40 @@
-name: Three Hours
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.66505
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#040000'
     - '#504d48'
     - '#cb801b'
     - '#fcc32a'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.2404255
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Three Hours
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9212766
+layout_spectrum: 1
